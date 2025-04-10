@@ -6,7 +6,7 @@ const Portfolio = () => {
       <div className="max-w-3xl text-center">
         <h1 className="text-4xl mb-6">My Work</h1>
         <p className="text-xl">Check out some of my latest projects below.</p>
-        {/* Add project links or embeds here */}
+        {/*project links*/}
       </div>
     </section>
   );
